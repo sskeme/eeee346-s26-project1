@@ -1,0 +1,6 @@
+The following resulting files must be present here:
+  thresholding.pgm
+  stretching.pgm
+  median.pgm
+  gaussian.pgm
+  edgedetect.pgm
