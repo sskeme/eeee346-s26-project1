@@ -1,1 +1,2 @@
-# eeee346-s26-project1
+# Instructions
+Please see the attached PDF file (EEEE346-Project1-Instructions-S26.pdf).
