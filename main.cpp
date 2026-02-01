@@ -106,7 +106,7 @@ void printMenu() { //{{{
   cout << "\t(" << THRESHOLD_OPERATION << ") Thresholding \n";
   cout << "\t(" << STRETCHING_OPERATION << ") Histogram Stretching \n";
   cout << "\t(" << MEDIAN_OPERATION << ") Median Filter \n";
-  cout << "\t(" << GAUSSIAN_OPERATION << ") Gaussian Filter 7x7 \n";
+  cout << "\t(" << GAUSSIAN_OPERATION << ") Gaussian Filter \n";
   cout << "\t(" << EDGEDETECT_OPERATION << ") Edge Detection \n";
   cout << "Enter Selection: ";
 } //}}}
